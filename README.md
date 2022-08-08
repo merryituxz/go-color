@@ -1,1 +1,1 @@
-# go-color
+# go-colorcolorful print for go
